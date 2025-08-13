@@ -40,7 +40,8 @@ COMO EJECUTAR
 
 *En C (Flex)
 	flex gramatica.l
-	gcc lex.yy.c -lfl -o gramatica
+	gcc lex.yy.c -o gramatica -lfl
 	./gramatica<prueba#.txt
+
 
 
