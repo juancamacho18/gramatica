@@ -36,10 +36,11 @@ gramatica.l(Ejecutar en Flex (C))
 
 COMO EJECUTAR
 *En Python 
-	Python gramática.py prueba#.txt
+	Python gramatica.py prueba#.txt
 
 *En C (Flex)
 	flex gramatica.l
-	gcc lex.yy.c -lfl -o gramática
-	./gramatica< prueba#.txt
+	gcc lex.yy.c -lfl -o gramatica
+	./gramatica<prueba#.txt
+
 
