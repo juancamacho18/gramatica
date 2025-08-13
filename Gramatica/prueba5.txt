@@ -1,0 +1,9 @@
+ab
+baba
+cd
+01
+aababb
+aabababb
+;.
+abab
+0

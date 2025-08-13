@@ -1,0 +1,8 @@
+abb
+09
+;;
+a
+abba
+ab
+baba
+abb
